@@ -13,7 +13,7 @@ The following image shows the output of running the command:
 helm template . -f override-resources.yaml
 ```
 
-![Helm Template Output](myapp/image%20copy.png)
+![Helm Template Output](image%20copy.png)
 
 ## Chart Structure
 
